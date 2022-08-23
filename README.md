@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Ranjan
-- 👀 I’m interested in CyberSecurity  
+- 👀 I’m into CyberSecurity  
 - 🌱 I’m currently learning Splunk and Golang
 - 💞️ I am a Security Engineer and Product Manager @Accuknox
 - 📫 You can reach me through my mail, abhinavranja334@gmail.com
