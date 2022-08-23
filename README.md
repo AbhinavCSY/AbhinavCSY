@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbhinavCSY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhinav Ranjan
+- 👀 I’m interested in CyberSecurity  
+- 🌱 I’m currently learning Splunk and Golang
+- 💞️ I am a Security Engineer and Product Manager @Accuknox
+- 📫 You can reach me through my mail, abhinavranja334@gmail.com
 
 <!---
 AbhinavCSY/AbhinavCSY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
